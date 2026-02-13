@@ -57,7 +57,7 @@ The model demonstrates a clear downward trajectory in the cost history plot, pro
 
 ###  Repository Structure
 * `House Price Prediction Dataset.csv`: The dataset used for training.
-* `model.ipynb`: Jupyter Notebook containing the step-by-step implementation.
+* `House_price_prediction.ipynb`: Jupyter Notebook containing the step-by-step implementation.
 * `README.md`: Project documentation.
 
 ---
